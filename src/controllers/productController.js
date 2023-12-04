@@ -20,12 +20,13 @@ const getProduct = async(req,res)=>{
         if(!producto){
             res.json({message:'No se encontro el producto', error:true})
         }
-        res.json({producto, error:false});
+        res.status(200).json({producto, error:false});
     } catch (error) {
         res.json({message:'No se encontro el producto', error:true})
     }
 }
 const addProduct = async(req,res)=>{
+    console.log(req.body);
     try {
         const {name, description, price, stock, category, image, page} = req.body;
         const producto = new Product({
@@ -38,7 +39,7 @@ const addProduct = async(req,res)=>{
             page
         });
         await producto.save();
-        res.status(201).json({message:'Producto agregado correctamente',error:false});
+        res.status(201).json({message:'Producto agregado correctamente',error:false,producto});
     } catch (error) {
         res.status(500).json({message: 'El curso no se pudo agregar',error:true});
     }
