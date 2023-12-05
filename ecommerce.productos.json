@@ -1,0 +1,685 @@
+[{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28c4"
+  },
+  "name": "Cuadro 1",
+  "description": "Este cuadro captura la belleza de un paisaje montañoso al amanecer. Los tonos suaves y frescos del cielo y las montañas crean una sensación de tranquilidad y serenidad. Cada detalle de las montañas y los árboles está meticulosamente representado. Añade este cuadro a tu espacio y disfruta de la paz que transmite.",
+  "price": 2500,
+  "stock": 8,
+  "category": "Cuadro",
+  "image": "https://i.postimg.cc/mk3wN8rf/cuadro2.webp",
+  "id": "2",
+  "page": 1,
+  "destacado": true
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28c5"
+  },
+  "name": "Mesa 3",
+  "description": "Este cuadro te transportará a una playa tropical con aguas cristalinas y arena blanca. Los colores brillantes y vibrantes del mar y el cielo te harán sentir como si estuvieras en el paraíso. Cada detalle de las olas y las palmeras está meticulosamente representado. Añade este cuadro a tu espacio y déjate llevar por la sensación de relajación y tranquilidad.",
+  "price": 3500,
+  "stock": 5,
+  "category": "Mesas",
+  "image": "https://i.postimg.cc/YS4zypSx/cuadro3.webp",
+  "id": "3",
+  "page": 1,
+  "destacado": true
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28c6"
+  },
+  "name": "Cuadro 4",
+  "description": "BORRADO",
+  "price": 2800,
+  "stock": 10,
+  "category": "Cuadro",
+  "image": "https://i.postimg.cc/sf5wrD46/cuadro4.webp",
+  "id": "4",
+  "page": 1,
+  "destacado": false
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28c7"
+  },
+  "name": "Cuadro 5",
+  "description": "Este cuadro captura la majestuosidad de una cascada en medio de un bosque. Los tonos verdes y frescos del bosque crean una sensación de paz y serenidad. Cada detalle de la cascada y los árboles está meticulosamente representado. Añade este cuadro a tu espacio y disfruta de la belleza de la naturaleza en tu hogar.",
+  "price": 3200,
+  "stock": 6,
+  "category": "Cuadro",
+  "image": "https://i.postimg.cc/X78LrHh9/cuadro5.webp",
+  "id": "5",
+  "page": 1,
+  "destacado": false
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28c8"
+  },
+  "name": "Cuadro 6",
+  "description": "Este cuadro te transportará a un campo de girasoles en plena floración. Los colores brillantes y cálidos de los girasoles crean una atmósfera alegre y llena de energía. Cada detalle de los girasoles y el campo está meticulosamente representado. Añade este cuadro a tu espacio y disfruta de la belleza de la naturaleza en tu hogar.",
+  "price": 2700,
+  "stock": 7,
+  "category": "Cuadro",
+  "image": "https://i.postimg.cc/hPgMPWCS/cuadro6.webp",
+  "id": "6",
+  "page": 1,
+  "destacado": false
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28c9"
+  },
+  "name": "Cuadro 7",
+  "description": "Este cuadro representa un hermoso paisaje de montaña con un lago tranquilo. Los tonos suaves y frescos del cielo y las montañas crean una sensación de paz y serenidad. Cada detalle de las montañas y el lago está meticulosamente representado. Añade este cuadro a tu espacio y disfruta de la belleza de la naturaleza en tu hogar.",
+  "price": 2900,
+  "stock": 9,
+  "category": "Cuadro",
+  "image": "https://i.postimg.cc/Hkvt2JTx/cuadro7.webp",
+  "id": "7",
+  "page": 1,
+  "destacado": false
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28ca"
+  },
+  "name": "Cuadro 8",
+  "description": "Este cuadro te transportará a un bosque encantado lleno de árboles misteriosos. Los tonos oscuros y misteriosos del bosque crean una atmósfera intrigante y fascinante. Cada detalle de los árboles y la vegetación está meticulosamente representado. Añade este cuadro a tu espacio y déjate llevar por la sensación de estar en un lugar mágico.",
+  "price": 3100,
+  "stock": 4,
+  "category": "Cuadro",
+  "image": "https://i.postimg.cc/s2t9ktQC/cuadro8.webp",
+  "id": "8",
+  "page": 1,
+  "destacado": false
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28cb"
+  },
+  "name": "Cuadro 9",
+  "description": "Este cuadro es una explosión de creatividad y expresión artística. Los colores vibrantes y las formas abstractas se entrelazan en una danza de imaginación y espontaneidad. Cada mirada a esta obra revela nuevos detalles y matices, invitándote a explorar el mundo de la creatividad sin límites. Coloca este cuadro en tu espacio y déjalo recordarte que la creatividad puede ser una fuente inagotable de inspiración y alegría. Stock: 25 unidades",
+  "price": 3000,
+  "stock": 18,
+  "category": "Cuadro",
+  "image": "https://i.postimg.cc/9QQpZP5K/cuadro9.webp",
+  "id": "9",
+  "page": 1,
+  "destacado": false
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28cc"
+  },
+  "name": "Living 1",
+  "description": "Esta impresionante imagen te transportará a un mundo de lujo y sofisticación. La sala de estar moderna y espaciosa está diseñada con atención meticulosa a los detalles. Los grandes ventanales ofrecen vistas panorámicas de un paisaje impresionante, lo que convierte esta sala en un oasis de serenidad. Los muebles de diseño de líneas limpias y los tonos neutros crean un ambiente elegante y relajante. Esta imagen es perfecta para aquellos que buscan un toque de sofisticación en su hogar.",
+  "price": 10000,
+  "stock": 12,
+  "category": "Living",
+  "image": "https://i.postimg.cc/k4LrRKxy/living1.jpg",
+  "id": "10",
+  "page": 2,
+  "destacado": true
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28cd"
+  },
+  "name": "Living 2",
+  "description": "Esta cautivadora imagen captura la esencia de la comodidad y la calidez en una noche de invierno. Una sala de estar cuidadosamente decorada con cómodos sofás y mantas suaves se ilumina con la suave luz de una chimenea encendida. La atmósfera es perfecta para relajarse con un buen libro o compartir momentos especiales en compañía. Esta imagen evoca la sensación de hogar y es ideal para aquellos que valoran la intimidad y la tranquilidad.",
+  "price": 15000,
+  "stock": 1,
+  "category": "Living",
+  "image": "https://i.postimg.cc/638JQYG3/living2.jpg",
+  "id": "11",
+  "page": 2,
+  "destacado": false
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28ce"
+  },
+  "name": "Living 3",
+  "description": "En esta imagen, el minimalismo alcanza su máxima expresión. Una sala de estar en blanco y negro con un diseño de interiores que destaca por su simplicidad y elegancia. Los muebles de líneas limpias y la ausencia de adornos innecesarios crean un ambiente moderno y sofisticado. Esta imagen es perfecta para quienes buscan un estilo minimalista y contemporáneo en su hogar.",
+  "price": 14000,
+  "stock": 4,
+  "category": "Living",
+  "image": "https://i.postimg.cc/pdXMw2WK/living3.webp",
+  "id": "12",
+  "page": 2,
+  "destacado": true
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28cf"
+  },
+  "name": "Living 4",
+  "description": "Esta encantadora imagen presenta una sala de estar que combina elementos clásicos con toques vintage. Los muebles elegantes, las lámparas de araña y los detalles ornamentados evocan una sensación de elegancia atemporal. Los colores suaves y la decoración cuidadosamente seleccionada hacen que esta sala sea un lugar perfecto para la conversación y la relajación. Ideal para quienes aprecian el encanto de lo clásico con un toque nostálgico.",
+  "price": 8000,
+  "stock": 12,
+  "category": "Living",
+  "image": "https://i.postimg.cc/cLcNkKSs/living4.webp",
+  "id": "13",
+  "page": 2,
+  "destacado": false
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28d0"
+  },
+  "name": "Living 5",
+  "description": "Esta imagen muestra una sala de estar contemporánea de concepto abierto que combina el espacio de estar, comedor y cocina en un diseño fluido y moderno. La abundante luz natural ilumina el ambiente, destacando los muebles de diseño y la decoración elegante. Esta imagen es perfecta para aquellos que buscan una sensación de amplitud y modernidad en su hogar.",
+  "price": 14000,
+  "stock": 4,
+  "category": "Living",
+  "image": "https://i.postimg.cc/vmqwMpTk/living5.webp",
+  "id": "14",
+  "page": 2,
+  "destacado": false
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28d1"
+  },
+  "name": "Living 6",
+  "description": "Esta cautivadora imagen te transportará a una casa de montaña acogedora y rústica. La sala de estar está decorada con muebles de madera maciza y detalles inspirados en la naturaleza. Las vistas de las montañas a través de las ventanas panorámicas son impresionantes. Esta imagen evoca la sensación de retiro y tranquilidad en medio de la naturaleza. Ideal para quienes buscan un refugio lejos del bullicio de la ciudad.",
+  "price": 9000,
+  "stock": 5,
+  "category": "Living",
+  "image": "https://i.postimg.cc/Sx4hG6HT/living6.webp",
+  "id": "15",
+  "page": 2,
+  "destacado": true
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28d2"
+  },
+  "name": "Sillón 1",
+  "description": "Este elegante sillón combina a la perfección estilo y comodidad. Su diseño contemporáneo con líneas limpias y patas de metal le confiere un aspecto sofisticado. El asiento y respaldo acolchados brindan la máxima comodidad. Perfecto para añadir un toque de modernidad a cualquier espacio.",
+  "price": 4000,
+  "stock": 4,
+  "category": "Sillon",
+  "image": "https://i.postimg.cc/8C2rMstD/sillon1.jpg",
+  "id": "16",
+  "page": 2,
+  "destacado": true
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28d3"
+  },
+  "name": "Sillón 2",
+  "description": "Este sillón reclinable es sinónimo de relajación suprema. Su diseño ergonómico te permite encontrar la posición perfecta para descansar. Está tapizado en tela suave de alta calidad y cuenta con un mecanismo de reclinación suave. Disfruta de momentos de tranquilidad y comodidad inigualable.",
+  "price": 5000,
+  "stock": 6,
+  "category": "Sillon",
+  "image": "https://i.postimg.cc/mrJ7jmZv/sillon2.webp",
+  "id": "17",
+  "page": 2,
+  "destacado": true
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28d4"
+  },
+  "name": "Sillon 4",
+  "description": "Este sillón de diseño minimalista es una obra maestra de la simplicidad. Su forma geométrica y sus patas de acero inoxidable lo convierten en una pieza contemporánea única. La tapicería de alta calidad y el acolchado brindan comodidad sin sacrificar estilo.",
+  "price": 8000,
+  "stock": 6,
+  "category": "Sillon",
+  "image": "https://i.postimg.cc/8znvkZv7/sillon4.jpg",
+  "id": "19",
+  "page": 3,
+  "destacado": false
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28d5"
+  },
+  "name": "Sillón 5",
+  "description": "Este sillón es perfecto para espacios pequeños sin renunciar a la comodidad. Su diseño compacto lo hace ideal para apartamentos y habitaciones de tamaño limitado. El tapizado suave y los colores neutros complementan cualquier decoración.",
+  "price": 5400,
+  "stock": 9,
+  "category": "Sillon",
+  "image": "https://i.postimg.cc/4ybtJZvG/sillon5.webp",
+  "id": "20",
+  "page": 3,
+  "destacado": true
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28d6"
+  },
+  "name": "Sillón 6",
+  "description": "Este versátil sillón lounge es la elección perfecta para relajarse y socializar. Su diseño contemporáneo y su amplio asiento brindan comodidad excepcional. Combina con una variedad de estilos de decoración y es ideal para espacios de entretenimiento.",
+  "price": 40,
+  "stock": 19,
+  "category": "Sillon",
+  "image": "https://i.postimg.cc/gJh8T3nn/sillon6.webp",
+  "id": "21",
+  "page": 3,
+  "destacado": false
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28d7"
+  },
+  "name": "Sillón 7",
+  "description": "Este sillón giratorio combina elegancia y funcionalidad. Gira 360 grados y su diseño moderno es perfecto para cualquier rincón de tu hogar u oficina. El tapizado de calidad y el asiento acolchado garantizan una experiencia cómoda.",
+  "price": 6800,
+  "stock": 7,
+  "category": "Sillon",
+  "image": "https://i.postimg.cc/5NgvT4Nq/sillon7.webp",
+  "id": "22",
+  "page": 3,
+  "destacado": false
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28d8"
+  },
+  "name": "Sillón 8",
+  "description": "Este sillón clásico es sinónimo de comodidad y estilo tradicional. Tapizado en tela de alta calidad y con un diseño atemporal, es perfecto para espacios donde se valora la elegancia y la comodidad.",
+  "price": 6000,
+  "stock": 4,
+  "category": "Sillon",
+  "image": "https://i.postimg.cc/rFMxf0cw/sillon8.webp",
+  "id": "23",
+  "page": 3,
+  "destacado": true
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28d9"
+  },
+  "name": "Sillón 9",
+  "description": "Este sillón futón combina sofisticación y versatilidad. Puede transformarse en una cama para huéspedes en segundos. Su diseño moderno y colores contemporáneos se adaptan a cualquier entorno.",
+  "price": 5800,
+  "stock": 10,
+  "category": "Sillon",
+  "image": "https://i.postimg.cc/6qw2bSkm/sillon9.webp",
+  "id": "24",
+  "page": 3,
+  "destacado": false
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28da"
+  },
+  "name": "Sillón 10",
+  "description": "Este sillón de masaje te ofrece una experiencia de relajación total. Equipado con funciones de masaje y calefacción, es perfecto para aliviar el estrés y relajar los músculos. Combina funcionalidad y comodidad en un solo lugar.",
+  "price": 4300,
+  "stock": 2,
+  "category": "Sillon",
+  "image": "https://i.postimg.cc/qM1hQ1j1/sillon10.webp",
+  "id": "25",
+  "page": 3,
+  "destacado": false
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28db"
+  },
+  "name": "Sillón 11",
+  "description": "Este sillón infantil es una adición perfecta para la habitación de tus pequeños. Diseñado pensando en la comodidad y la diversión, es ideal para leer cuentos o ver películas. Sus colores vibrantes y el diseño amigable para niños lo convierten en un mueble funcional y atractivo.",
+  "price": 1900,
+  "stock": 12,
+  "category": "Sillon",
+  "image": "https://i.postimg.cc/c4xtQpMK/sillon11.webp",
+  "id": "26",
+  "page": 3,
+  "destacado": true
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28dc"
+  },
+  "name": "Decorado 1",
+  "description": "Este decorado de pared es una joya para cualquier amante del arte y la naturaleza. Cada detalle de las flores y hojas está cuidadosamente esculpido en metal y pintado a mano con colores vibrantes. Su diseño elegante y contemporáneo lo hace perfecto para embellecer tu espacio. Ya sea en el salón, el dormitorio o el comedor, este decorado añade un toque de naturaleza y sofisticación. Crea un ambiente fresco y lleno de vida con este impresionante decorado.",
+  "price": 8000,
+  "stock": 3,
+  "category": "Decorado",
+  "image": "https://i.postimg.cc/nh4jB47q/decorado1.webp",
+  "page": 4,
+  "destacado": false,
+  "id": "27"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28dd"
+  },
+  "name": "Decorado 2",
+  "description": "Este decorado de mesa lleva la serenidad de un jardín zen directamente a tu hogar. Las piedras y la arena son hábilmente dispuestas en un recipiente de cerámica, creando una representación en miniatura de la tranquilidad. Colócalo en tu escritorio, mesa de centro o estante para recordarte la importancia de encontrar la calma en medio del ajetreo diario. Este decorado es una declaración de paz y equilibrio que transformará tu espacio en un refugio de serenidad.",
+  "price": 9000,
+  "stock": 1,
+  "category": "Decorado",
+  "image": "https://i.postimg.cc/5NHk40zh/decorado2.webp",
+  "page": 4,
+  "destacado": false,
+  "id": "28"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28de"
+  },
+  "name": "Decorado 3",
+  "description": "Este decorado de pared es más que una simple obra de arte, es un espejo mágico que ampliará y embellecerá cualquier habitación. Su diseño geométrico y contemporáneo combina con una variedad de estilos de decoración. Colócalo en tu vestíbulo para un último vistazo antes de salir o en tu sala de estar para agregar profundidad y luminosidad. Con este decorado, cada rincón de tu hogar se transforma en un espacio más brillante y elegante.",
+  "price": 7500,
+  "stock": 10,
+  "category": "Decorado",
+  "image": "https://i.postimg.cc/MKh3vSbv/decorado3.webp",
+  "page": 4,
+  "destacado": false,
+  "id": "29"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28df"
+  },
+  "name": "Decorado 4",
+  "description": "Este decorado de mesa es una obra de arte en sí mismo. Inspirado en el arte del origami, cada figura de papel ha sido cuidadosamente plegada a mano y dispuesta en una base de madera. La simplicidad y la belleza de las formas geométricas hacen que este decorado sea una pieza única que aporta un toque de creatividad y elegancia a tu hogar. Colócalo en tu escritorio, mesa de café o estante para una dosis diaria de inspiración.",
+  "price": 11399,
+  "stock": 6,
+  "category": "Decorado",
+  "image": "https://i.postimg.cc/hGnC11Yn/decorado4.webp",
+  "page": 4,
+  "destacado": false,
+  "id": "30"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28e0"
+  },
+  "name": "Decorado 5",
+  "description": "Este decorado de pared es una ventana a la naturaleza en todo su esplendor. La combinación de madera natural y espejos crea una representación única de la interacción entre el hombre y la naturaleza. Las hojas y ramas esculpidas en madera capturan la belleza de la flora, mientras que los espejos reflejan la luz y el entorno. Este decorado transforma cualquier pared en una obra de arte viva que invita a la reflexión y la contemplación.",
+  "price": 9999,
+  "stock": 4,
+  "category": "Decorado",
+  "image": "https://i.postimg.cc/zBX09X5P/decorado5.webp",
+  "page": 4,
+  "destacado": false,
+  "id": "31"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28e1"
+  },
+  "name": "Decorado 6",
+  "description": "Este decorado de mesa es una obra celestial que evoca la belleza de un eclipse lunar. El vidrio templado en tonos oscuros y la base metálica crean una representación artística de este fenómeno astronómico. Colócalo en tu mesa de comedor o sala de estar como una conversación fascinante y una pieza de arte única. Cada vez que mires este decorado, te sentirás transportado a las maravillas del universo.",
+  "price": 14399,
+  "stock": 5,
+  "category": "Decorado",
+  "image": "https://i.postimg.cc/g28ShTN4/decorado6.webp",
+  "page": 4,
+  "destacado": false,
+  "id": "32"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28e2"
+  },
+  "name": "Decorado 7",
+  "description": "Este decorado de pared es una oda a la belleza de la aurora boreal. Los colores vibrantes y las formas onduladas capturan la magia y el misterio de este fenómeno natural. La combinación de metal y vidrio le da un aspecto contemporáneo y elegante. Este decorado ilumina cualquier espacio con una sensación de asombro y maravilla. Añádelo a tu colección de arte para una dosis diaria de inspiración.",
+  "price": 15999,
+  "stock": 17,
+  "category": "Decorado",
+  "image": "https://i.postimg.cc/1zKvCNxq/decorado7.webp",
+  "page": 4,
+  "destacado": false,
+  "id": "33"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28e3"
+  },
+  "name": "Mesa 1",
+  "description": "Esta mesa de comedor es la definición de la elegancia clásica. Su superficie de madera maciza en tonos cálidos y su diseño atemporal la convierten en el punto focal perfecto para cualquier cena o reunión familiar. La artesanía meticulosa y las patas esculpidas añaden un toque de sofisticación. Con capacidad para seis comensales, esta mesa es ideal para crear recuerdos inolvidables alrededor de ella.",
+  "price": 4000,
+  "stock": 4,
+  "category": "Mesa",
+  "image": "https://i.postimg.cc/02pD0116/mesa1.jpg",
+  "page": 4,
+  "destacado": false,
+  "id": "34"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28e4"
+  },
+  "name": "Mesa 1",
+  "description": "Esta mesa de centro combina innovación y minimalismo en un diseño contemporáneo. La superficie de vidrio templado flota sobre una base de metal pulido, creando una apariencia etérea y elegante. Su diseño abierto proporciona espacio para guardar libros y revistas, manteniendo tu sala de estar ordenada. Esta mesa es ideal para aquellos que buscan una estética moderna y funcionalidad.",
+  "price": 3499,
+  "stock": 2,
+  "category": "Mesa",
+  "image": "https://i.postimg.cc/RZ4fPpvg/mesa2.jpg",
+  "page": 5,
+  "destacado": false,
+  "id": "35"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28e5"
+  },
+  "name": "Mesa 3",
+  "description": "Esta mesa auxiliar es un ejemplo perfecto de versatilidad en un paquete compacto. Su diseño inteligente incorpora una superficie extensible, lo que la convierte en una compañera ideal para cualquier rincón. Puedes usarla como mesita de noche, mesa lateral o incluso como escritorio improvisado. La madera de alta calidad y los acabados en tonos neutros garantizan que encaje con cualquier estilo de decoración.",
+  "price": 5999,
+  "stock": 6,
+  "category": "Mesa",
+  "image": "https://i.postimg.cc/JzxXS3nM/mesa3.jpg",
+  "page": 5,
+  "destacado": false,
+  "id": "36"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28e6"
+  },
+  "name": "Hogar 1",
+  "description": "Este artículo es una incorporación esencial para aquellos que buscan agregar un toque de sofisticación a su hogar. Su diseño elegante y acabados de alta calidad se adaptan a una variedad de estilos de decoración. Coloca este artículo en cualquier espacio y transforma instantáneamente su ambiente en uno de elegancia y estilo.",
+  "price": 7800,
+  "stock": 4,
+  "category": "Hogar",
+  "image": "https://i.postimg.cc/Fs9fgDFQ/hogar1.webp",
+  "page": 5,
+  "destacado": false,
+  "id": "37"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28e7"
+  },
+  "name": "Hogar 2",
+  "description": "Este artículo es la clave para elevar tu decoración al siguiente nivel. Su diseño innovador y atención al detalle hacen que sea una pieza única que atraerá todas las miradas. Colócalo en tu sala de estar, dormitorio o espacio de trabajo para añadir un toque de carácter y distinción.",
+  "price": 6700,
+  "stock": 4,
+  "category": "Hogar",
+  "image": "https://i.postimg.cc/Kj51hgNV/hogar2.webp",
+  "page": 5,
+  "destacado": false,
+  "id": "38"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28e8"
+  },
+  "name": "Hogar 3",
+  "description": "Este artículo está diseñado para crear un ambiente especial en tu hogar. Su estilo versátil y funcionalidad lo hacen perfecto para una variedad de espacios. Coloca este artículo en tu sala de estar, comedor o incluso en tu jardín para transformar el entorno y crear un ambiente único.",
+  "price": 9999,
+  "stock": 7,
+  "category": "Hogar",
+  "image": "https://i.postimg.cc/kXf2jKDR/hogar3.webp",
+  "page": 5,
+  "destacado": false,
+  "id": "39"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28e9"
+  },
+  "name": "Hogar 4",
+  "description": "Este artículo representa la elegancia en su máxima expresión. Su diseño atemporal y materiales de alta calidad son la combinación perfecta para aquellos que buscan un toque de lujo en su hogar. Coloca este artículo en tu espacio favorito y déjate envolver por su encanto atemporal.",
+  "price": 14,
+  "stock": 16,
+  "category": "Hogar",
+  "image": "https://i.postimg.cc/tRdZxLj5/hogar4.webp",
+  "page": 5,
+  "destacado": false,
+  "id": "40"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28ea"
+  },
+  "name": "Hogar 5",
+  "description": " Este artículo tiene el poder de transformar por completo tu espacio. Su diseño audaz y elementos de diseño únicos lo hacen destacar entre la multitud. Colócalo en cualquier lugar que desees renovar y observa cómo cambia el ambiente de manera instantánea.",
+  "price": 14000,
+  "stock": 7,
+  "category": "Hogar",
+  "image": "https://i.postimg.cc/52y6DyF7/hogar5.webp",
+  "page": 88,
+  "destacado": false,
+  "id": "41"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28eb"
+  },
+  "name": "Hogar 6",
+  "description": "Este artículo combina elegancia y funcionalidad en una sola pieza. Su diseño inteligente y acabados de alta calidad lo convierten en una adición valiosa a tu hogar. Colócalo en cualquier espacio donde desees añadir un toque de estilo y utilidad.",
+  "price": 4889,
+  "stock": 16,
+  "category": "Hogar",
+  "image": "https://i.postimg.cc/T3spxxVR/hogar6.webp",
+  "page": 5,
+  "destacado": false,
+  "id": "42"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28ec"
+  },
+  "name": "Hogar 7",
+  "description": "Este artículo es sinónimo de sofisticación a la vista. Su diseño refinado y detalles cuidadosamente elaborados lo convierten en una elección perfecta para aquellos que buscan una decoración de alto nivel. Coloca este artículo en tu hogar y experimenta la transformación de tu ambiente hacia un nivel superior de elegancia.",
+  "price": 2999,
+  "stock": 12,
+  "category": "Hogar",
+  "image": "https://i.postimg.cc/sxzMLJp7/hogar7.webp",
+  "page": 6,
+  "destacado": false,
+  "id": "43"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28ed"
+  },
+  "name": "Comedor 1",
+  "description": "Este conjunto de comedor es una expresión de elegancia clásica. La mesa de madera maciza en tonos cálidos y las sillas tapizadas en tela de alta calidad crean un ambiente atemporal. Los detalles ornamentados en el respaldo de las sillas añaden un toque de sofisticación. Reúne a tu familia y amigos alrededor de esta mesa para crear recuerdos inolvidables en un entorno refinado.",
+  "price": 19000,
+  "stock": 4,
+  "category": "Comedor",
+  "image": "https://i.postimg.cc/MK6pCHQk/comedor1.webp",
+  "page": 6,
+  "destacado": false,
+  "id": "44"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28ee"
+  },
+  "name": "Comedor 2",
+  "description": "Este conjunto de comedor combina la funcionalidad con un diseño minimalista y moderno. La mesa de vidrio templado se apoya en patas de acero inoxidable, creando un aspecto limpio y contemporáneo. Las sillas de cuero sintético complementan perfectamente la mesa. Ideal para aquellos que buscan un comedor con un toque de modernidad.",
+  "price": 25999,
+  "stock": 6,
+  "category": "Comedor",
+  "image": "https://i.postimg.cc/c4hrCwS4/comedor2.webp",
+  "page": 6,
+  "destacado": false,
+  "id": "45"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28ef"
+  },
+  "name": "Comedor 3",
+  "description": "Este conjunto de comedor emana encanto rústico y acogedor. La mesa de madera maciza con acabado envejecido y las sillas de respaldo alto en tela a cuadros crean un ambiente cálido y acogedor. Este conjunto es perfecto para quienes buscan un espacio de comedor que inspire conversaciones y momentos especiales.",
+  "price": 69000,
+  "stock": 5,
+  "category": "Comedor",
+  "image": "https://i.postimg.cc/zv5GXX2g/comedor3.webp",
+  "page": 6,
+  "destacado": false,
+  "id": "46"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28f0"
+  },
+  "name": "Comedor 4",
+  "description": "Este conjunto de comedor es una declaración de diseño contemporáneo. La mesa de forma única y las sillas de respaldo bajo aportan un toque de vanguardia a tu hogar. La combinación de madera y metal crea un aspecto audaz y moderno. Añade este conjunto a tu espacio para una experiencia de comedor inigualable.",
+  "price": 34500,
+  "stock": 8,
+  "category": "Comedor",
+  "image": "https://i.postimg.cc/fbtL8P0J/comedor4.webp",
+  "page": 6,
+  "destacado": false,
+  "id": "47"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28f1"
+  },
+  "name": "Comedor 5",
+  "description": " Este conjunto de comedor es ideal para espacios más pequeños. La mesa redonda y las sillas de perfil delgado encajan perfectamente en apartamentos y cocinas más compactas. El diseño simple y la paleta de colores neutros hacen que este conjunto sea versátil y funcional.",
+  "price": 45670,
+  "stock": 9,
+  "category": "Comedor",
+  "image": "https://i.postimg.cc/QCbxBGvn/comedor5.webp",
+  "page": 6,
+  "destacado": false,
+  "id": "48"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28f2"
+  },
+  "name": "Comedor 6",
+  "description": "Este conjunto de comedor es sinónimo de lujo moderno. La mesa de cristal templado y las sillas de cuero genuino son un tributo a la sofisticación y el confort. Los detalles cromados añaden un toque de brillo. Este conjunto es perfecto para aquellos que desean hacer una declaración de elegancia en su comedor.",
+  "price": 40000,
+  "stock": 10,
+  "category": "Comedor",
+  "image": "https://i.postimg.cc/Pqgq9MmK/comedor6.webp",
+  "page": 6,
+  "destacado": false,
+  "id": "49"
+},
+{
+  "_id": {
+    "$oid": "6554c342cf41f3c51a6d28f3"
+  },
+  "name": "Comedor 7",
+  "description": "Este conjunto de comedor presenta un estilo industrial audaz y robusto. La mesa de madera maciza y las sillas de metal crean un ambiente con carácter y personalidad. Los detalles envejecidos y las formas geométricas hacen que este conjunto sea único. Agrega este conjunto a tu hogar para una estética industrial contemporánea.",
+  "price": 54000,
+  "stock": 13,
+  "category": "Comedor",
+  "image": "https://i.postimg.cc/76SLkT94/comedor7.webp",
+  "page": 6,
+  "destacado": false,
+  "id": "50"
+},
+{
+  "_id": {
+    "$oid": "656deb62f8d5c3d16a5a3eb3"
+  },
+  "name": "Para el hogar",
+  "description": "Hogar es una película española de thriller y Terror de 2020 escrita y dirigida por los hermanos Pastor (Álex y David). Está protagonizada por Javier Gutiérrez, Mario Casas, Bruna Cusí y Ruth Díaz. Se estrenó el 25 de marzo de 2020 en Netflix en todo el mundo y ha recibido comentarios mixtos por parte de los críticos profesionales.",
+  "price": 1999,
+  "stock": 12,
+  "image": "https://i.postimg.cc/YS4zypSx/cuadro3.webp",
+  "category": "Hogar",
+  "page": 8,
+  "__v": 0
+}]
