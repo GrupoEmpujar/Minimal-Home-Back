@@ -2,7 +2,7 @@
 
 *Integrantes: Lucas Colque, Vivian Figueredo, Adrian Garcia y Juan Celelier.*
 
-*RECOMENDABLE: tener el como valor en APP_PORT 7777*
+*RECOMENDABLE: tener como valor en APP_PORT = 7777, APP_HOST = http://localhost, DB_NAME = ecommerce, DB_PORT = 27017, DB_HOST = 127.0.0.1*
 # Comandos
 ## Backend
 
