@@ -2,6 +2,7 @@
 
 *Integrantes: Lucas Colque, Vivian Figueredo, Adrian Garcia y Juan Celelier.*
 
+*RECOMENDABLE: tener el como valor en APP_PORT 7777*
 # Comandos
 ## Backend
 
